@@ -16,11 +16,6 @@ db_path = "inventory.db"
 client = OpenAI(api_key=key)
 
 
-# client = OpenAI(api_key="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")
-
-
-
-
 
 def process_invoice(file_path):
 
